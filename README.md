@@ -43,7 +43,7 @@ And open MySql for the project on local.
 
 ```
 User Name : root
-Password : ''
+Password : 12345
 ```
 
 ## Running the app
