@@ -58,7 +58,7 @@ Password : 12345
 
 ## Author
 
-- **Oğuzhan Yıldırım** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Oğuzhan Yıldırım**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
